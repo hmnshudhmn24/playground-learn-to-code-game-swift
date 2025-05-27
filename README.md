@@ -41,9 +41,3 @@ move("right")
 
 4. **Goal:**
    - Navigate the blue square to the green square using code.
-
----
-
-## 📄 License
-
-MIT License
